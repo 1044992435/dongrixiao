@@ -15,7 +15,7 @@ import java.util.Set;
  * @version </pre>
  */
 public class User {
-    private Integer uid;
+    private Integer uid5;
     private String username;
     private String password;
     private String name;
