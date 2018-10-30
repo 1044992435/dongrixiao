@@ -27,10 +27,10 @@ public class User {
     // 一个用户对应多个订单:
     private Set<Order> orders = new HashSet<Order>();
     public Integer getUid() {
-        return uid;
+        return uid5;
     }
     public void setUid(Integer uid) {
-        this.uid = uid;
+        this.uid5 = uid5;
     }
     public String getUsername() {
         return username;
